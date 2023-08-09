@@ -1,0 +1,21 @@
+/*font links starts */
+
+@font-face {
+	src: url(../fonts/opensans-semibold.ttf);
+	font-family: open-sans;
+}
+
+
+
+h1 { font-family:'Playfair Display', sans-serif; font-weight: 150; }
+
+h2 {font-family: Ubuntu, sans-serif;font-weight: 150 }
+
+
+/*common css starts */ 
+
+/*header starts */
+
+
+
+/*header ends */ 
